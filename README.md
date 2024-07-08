@@ -15,13 +15,12 @@
   <img src="https://github-readme-stats.vercel.app/api?username=leo131511&show_icons=true" alt="leo131511" align="right" />
 </a>
 
-- :house: I'm currently living at HCM City, Bom Jesus da Lapa-Bahia.
+- :house: I'm currently living at City de Bom Jesus da Lapa-Bahia.
 - :computer: Atualmente Sou tecnico de Informática.
 - :dart: I'm currently working on my pet projects.
-- :video_game: I love jogar.
 
 
-### <img src="https://media.giph
+
 - 
   
 	<img title="Python" alt="Python" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
