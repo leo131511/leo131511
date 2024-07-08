@@ -15,9 +15,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=leo131511&show_icons=true" alt="leo131511" align="right" />
 </a>
 
-- :house: I'm currently living at City de Bom Jesus da Lapa-Bahia.
+- :house: Hoje em dia estou living at City de Bom Jesus da Lapa-Bahia.
 - :computer: Atualmente Sou tecnico de Informática.
-- :dart: I'm currently working on my pet projects.
+- :dart:  working on my pet projects.
 
 
 
