@@ -15,11 +15,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=leo131511&show_icons=true" alt="leo131511" align="right" />
 </a>
 
-- :house: I'm currently living at HCM City, Vietnam 🇻🇳.
-- :computer: I'm currently working as a Software Engineer.
+- :house: I'm currently living at HCM City, Bom Jesus da Lapa-Bahia.
+- :computer: Atualmente Sou tecnico de Informática.
 - :dart: I'm currently working on my pet projects.
-- :video_game: I love Dota 2.
-- :coffee: I'm coffeer.
+- :video_game: I love jogar.
+
 
 ### <img src="https://media.giph
 - 
